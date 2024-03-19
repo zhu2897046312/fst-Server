@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -rdynamic CMakeFiles/fiber_test.dir/fiber_test.cc.o -o ../../bin/fiber_test   -L/home/zhuyi/桌面/WorkSpace/fst-Server/lib  -L/usr/local/lib  -Wl,-rpath,/home/zhuyi/桌面/WorkSpace/fst-Server/lib:/usr/local/lib ../../lib/libserver.a -lpthread 

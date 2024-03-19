@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/zhuyi/桌面/WorkSpace/fst-Server/build/src",
+  "command": "/usr/bin/clang++  -I/home/zhuyi/桌面/WorkSpace/fst-Server/src/include -I/home/zhuyi/桌面/WorkSpace/fst-Server/src/./include -g -o CMakeFiles/server.dir/fiber.cc.o -c /home/zhuyi/桌面/WorkSpace/fst-Server/src/fiber.cc",
+  "file": "/home/zhuyi/桌面/WorkSpace/fst-Server/src/fiber.cc"
+},
+{
+  "directory": "/home/zhuyi/桌面/WorkSpace/fst-Server/build/src",
+  "command": "/usr/bin/clang++  -I/home/zhuyi/桌面/WorkSpace/fst-Server/src/include -I/home/zhuyi/桌面/WorkSpace/fst-Server/src/./include -g -o CMakeFiles/server.dir/logger.cc.o -c /home/zhuyi/桌面/WorkSpace/fst-Server/src/logger.cc",
+  "file": "/home/zhuyi/桌面/WorkSpace/fst-Server/src/logger.cc"
+},
+{
+  "directory": "/home/zhuyi/桌面/WorkSpace/fst-Server/build/src",
+  "command": "/usr/bin/clang++  -I/home/zhuyi/桌面/WorkSpace/fst-Server/src/include -I/home/zhuyi/桌面/WorkSpace/fst-Server/src/./include -g -o CMakeFiles/server.dir/tamestamp.cc.o -c /home/zhuyi/桌面/WorkSpace/fst-Server/src/tamestamp.cc",
+  "file": "/home/zhuyi/桌面/WorkSpace/fst-Server/src/tamestamp.cc"
+},
+{
+  "directory": "/home/zhuyi/桌面/WorkSpace/fst-Server/build/src",
+  "command": "/usr/bin/clang++  -I/home/zhuyi/桌面/WorkSpace/fst-Server/src/include -I/home/zhuyi/桌面/WorkSpace/fst-Server/src/./include -g -o CMakeFiles/server.dir/thread.cc.o -c /home/zhuyi/桌面/WorkSpace/fst-Server/src/thread.cc",
+  "file": "/home/zhuyi/桌面/WorkSpace/fst-Server/src/thread.cc"
+},
+{
+  "directory": "/home/zhuyi/桌面/WorkSpace/fst-Server/build/test",
+  "command": "/usr/bin/clang++  -I/home/zhuyi/桌面/WorkSpace/fst-Server/src/include -I/home/zhuyi/桌面/WorkSpace/fst-Server/src/./include -g -o CMakeFiles/thread_test.dir/thread_test.cc.o -c /home/zhuyi/桌面/WorkSpace/fst-Server/test/thread_test.cc",
+  "file": "/home/zhuyi/桌面/WorkSpace/fst-Server/test/thread_test.cc"
+},
+{
+  "directory": "/home/zhuyi/桌面/WorkSpace/fst-Server/build/test",
+  "command": "/usr/bin/clang++  -I/home/zhuyi/桌面/WorkSpace/fst-Server/src/include -I/home/zhuyi/桌面/WorkSpace/fst-Server/src/./include -g -o CMakeFiles/fiber_test.dir/fiber_test.cc.o -c /home/zhuyi/桌面/WorkSpace/fst-Server/test/fiber_test.cc",
+  "file": "/home/zhuyi/桌面/WorkSpace/fst-Server/test/fiber_test.cc"
+}
+]

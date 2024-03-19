@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libserver.a CMakeFiles/server.dir/fiber.cc.o CMakeFiles/server.dir/logger.cc.o CMakeFiles/server.dir/tamestamp.cc.o CMakeFiles/server.dir/thread.cc.o
+/usr/bin/ranlib ../../lib/libserver.a

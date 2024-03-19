@@ -1,0 +1,9 @@
+/home/zhuyi/桌面/WorkSpace/fst-Server/build/CMakeFiles/edit_cache.dir
+/home/zhuyi/桌面/WorkSpace/fst-Server/build/CMakeFiles/rebuild_cache.dir
+/home/zhuyi/桌面/WorkSpace/fst-Server/build/src/CMakeFiles/server.dir
+/home/zhuyi/桌面/WorkSpace/fst-Server/build/src/CMakeFiles/edit_cache.dir
+/home/zhuyi/桌面/WorkSpace/fst-Server/build/src/CMakeFiles/rebuild_cache.dir
+/home/zhuyi/桌面/WorkSpace/fst-Server/build/test/CMakeFiles/thread_test.dir
+/home/zhuyi/桌面/WorkSpace/fst-Server/build/test/CMakeFiles/fiber_test.dir
+/home/zhuyi/桌面/WorkSpace/fst-Server/build/test/CMakeFiles/edit_cache.dir
+/home/zhuyi/桌面/WorkSpace/fst-Server/build/test/CMakeFiles/rebuild_cache.dir
